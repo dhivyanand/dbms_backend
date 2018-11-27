@@ -1,1 +1,1 @@
-The backend repository comprises of php scripts and SQL file.
+The backend repository comprises of php scripts.
